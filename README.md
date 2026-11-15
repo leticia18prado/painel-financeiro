@@ -15,7 +15,7 @@ Painel financeiro interativo desenvolvido com auxílio do Bolt AI, voltado à an
 
 ## Método de realização
 
-O projeto foi construído com vibe coding na plataforma Bolt: eu defini as regras contábeis e os indicadores, descrevi o que cada tela deveria mostrar e revisei os resultados e os cálculos gerados.
+O projeto foi desenvolvido individualmente por meio da abordagem *Vibe Coding*, utilizando o Bolt AI como plataforma de desenvolvimento e o Claude como ferramenta de apoio. Defini as regras contábeis, selecionei os indicadores financeiros, estruturei as funcionalidades e determinei o conteúdo de cada tela. Também fui responsável pela revisão e validação dos cálculos e resultados gerados, assegurando a coerência das informações apresentadas.
 
 ## Prints
 
